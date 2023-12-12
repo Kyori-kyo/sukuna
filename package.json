@@ -1,0 +1,26 @@
+{
+  "name": "sukuna",
+  "version": "1.0.0",
+  "description": "a package that is certantly better than gojo",
+  "main": "index.js",
+  "scripts": {
+    "test": "runUserTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyori-kyo/sukuna.git"
+  },
+  "keywords": [
+    "sukuna",
+    "jujutsu",
+    "typescript",
+    "javascript",
+    "2/1"
+  ],
+  "author": "kyori",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyori-kyo/sukuna/issues"
+  },
+  "homepage": "https://github.com/Kyori-kyo/sukuna#readme"
+}
